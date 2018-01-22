@@ -1,0 +1,1 @@
+### This repository contains notes to myself on javascript data structures and algorithms.
