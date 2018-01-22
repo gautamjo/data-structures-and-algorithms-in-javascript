@@ -1,4 +1,4 @@
-### Notes on JavaScript Data Structures and Algorithms
+### Notes on Constructor Function
 
 <i>Let me begin by explaining <b>What is a constructor function and what does it do?</b></i>
 
