@@ -23,7 +23,7 @@ var user1 = new User("Martina", "Novratilova", "30", "female", "martiNova@xyz.co
 <i>Lets create a few more user:</i>
 
 ```js
-var user10 = new user("Gabbar", "Singh", 35, "male", "kitneAadmiThe@ramgadh.com");
+var user10 = new User("Gabbar", "Singh", 35, "male", "kitneAadmiThe@ramgadh.com");
 ```
 
 ```js
