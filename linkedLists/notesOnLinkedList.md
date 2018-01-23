@@ -1,0 +1,1 @@
+![](../img/linkedLists/singlyDoublyLinkedList.png)

@@ -1,5 +1,5 @@
 ### Notes on Prototype Object
-
+___
 <i>A Prototype Object is simply an object that multiple other objects can refer to. This allows objects to acquire any additional information and functionality that they need. Let me explain this with help of an example.</i>
 
 <i>Earlier I had created a constructor function called User and created a few instances from it. I'll extend that example further by supposing that the social media site for which this constructor function was created wants every user to have @socialMedia.com email domain. I can add this property to the User class by putting it on the prototype of the class like so:</i>

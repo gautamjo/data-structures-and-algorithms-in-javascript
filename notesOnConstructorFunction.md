@@ -1,5 +1,5 @@
 ### Notes on Constructor Function
-
+___
 <i>Let me begin by explaining <b>What is a constructor function and what does it do?</b></i>
 
 <i>A constructor function is simply a function that creates an Object class. It allows us to create multiple instances of that class. In other words, What this simply means is that a contructor function allows us to create a lot of object very quickly and these objects will have the same property and the same functionality as they belong to the same class.</i>
