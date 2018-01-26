@@ -86,7 +86,7 @@ BST.prototype.getMaxVal = function() {
         return this.value;
     }
     return this.right.getMaxVal();
-};
+}; 
 
 function logDepth(value) {
     console.log(value);
