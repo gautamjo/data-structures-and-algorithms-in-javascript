@@ -2,14 +2,13 @@ var arr = Array.apply(null, Array(10)).map(function(_, i) { return i; });
 
 // reverse an array without using reverse function
 for (var i = 0; i < arr.length; i++) {
-    arr[i] = arr.length - i;
+    arr[i] = arr.length - 1 - i;
 }
-arr.push(0);
-arr.shift();
+
 console.log(arr); // [ 9, 8, 7, 6, 5, 4, 3, 2, 1, 0 ]
 
 
-// a better way to reverse without using reverse, push or shift
+// another way to reverse 
 function reverseArray(arr) {
     var arrOutput = [];
     for (var i = arr.length - 1; i >= 0; i--) {
